@@ -4,8 +4,8 @@ let game_scene = new Phaser.Scene("Game");
 // config
 let config = {
         type: Phaser.AUTO,
-        width: 640,
-        height: 360,
+        width: 800,
+        height: 600,
         scene: game_scene
 };
 
